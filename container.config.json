@@ -8,7 +8,7 @@
 	// 最小实例数
 	"minNum": 0,
 	// 最大实例数
-	"maxNum": 50,
+	"maxNum": 2,
 	// cpu 核数
 	"cpu": 1,
 	// 内存大小，单位：G
@@ -16,7 +16,7 @@
 	// 扩缩容指标类型
 	"policyType": "cpu",
 	// 扩缩容指标阈值
-	"policyThreshold": 60,
+	"policyThreshold": 90,
 	// 环境变量
 	"envParams": {},
 	// 日志采集路径
