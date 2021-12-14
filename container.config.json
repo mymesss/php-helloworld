@@ -1,6 +1,6 @@
 {
 	// 监听端口
-	"containerPort": 8080,
+	"containerPort": 808080808,
 	// Dockerfile 路径
 	"dockerfilePath": "Dockerfile",
 	// 构建目录
